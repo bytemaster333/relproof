@@ -1,4 +1,4 @@
-#relproof
+# relproof
 
 One of the biggest problems in the open-source world today is the inability to verify whether binaries downloaded from release pages actually match the source code. Unfortunately, users and developers often have to rely on blind trust.
 
